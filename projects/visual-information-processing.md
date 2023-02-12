@@ -11,9 +11,9 @@ It seems that, from the perspective of information processing, the brain is an i
 
 <!-- ### My interests and works -->
 
-I am particularly intersted in the computational representations of the inference in our brain. I measured visual percepts of humans and reveal the underlying models.
+I am particularly intersted in the computational representations of the inference in our brain. 
 
-To achive the goals, I have been coding psychophysical experiment programs in Python, applying statistical analysis on measurement data, using modeling and optimization techniques, and of course, being always eager to learn and try new ideas.
+To investigate them, I measure visual percepts of humans and reveal the underlying models. I have been coding psychophysical experiment programs in Python, applying statistical analysis on measurement data, using modeling and optimization techniques, and of course, being always eager to learn and try new ideas.
 
 <!-- ### Outcomes -->
 The research projects is still ongoing, which are expected to result in three research publications. 
