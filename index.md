@@ -4,15 +4,17 @@
 
 ### Projects
 
+[Research Projects](/projects/visual-information-processing.md)
+
+---
+
+### Side Projects
+
 [Catch the CATs - Explore Feature Engineering](/projects/catch-the-cats.md)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Project 2](/pdf/sample_presentation.pdf)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
----
-[Project 3](http://example.com/)
+[Forest Cover Type - Compare Classification Algorithms](/projects/forest-cover-type.md)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
@@ -24,10 +26,4 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/) -->
-
----
-
-
-
----
 
