@@ -4,7 +4,7 @@
 
 ### Ongoing Projects
 
-[Research Projects](/projects/visual-information-processing.md)
+[Research Projects - Visual Information Processing](/projects/visual-information-processing.md)
 
 ---
 
