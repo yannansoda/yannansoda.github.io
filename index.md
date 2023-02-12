@@ -2,13 +2,13 @@
 
 ---
 
-### Projects
+### Ongoing Projects
 
 [Research Projects](/projects/visual-information-processing.md)
 
 ---
 
-### Side Projects
+### All Projects
 
 [Catch the CATs - Explore Feature Engineering](/projects/catch-the-cats.md)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
