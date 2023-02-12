@@ -7,7 +7,7 @@ _THE research questions and solutions during my PhD in Neuroscience_
 
 Perception is an "unconscious inference", stated by Hermann von Helmholtz, and believed by me, a scientist studying how our brain processes rich and ambiguous visual information.
 
-It seems that from the perspective of information processing, the brain is an information processor that never rests and implements statstical inference, for example, using Bayes rules and joint models.
+It seems that, from the perspective of information processing, the brain is an information processor that never rests and implements statstical inference, for example, using Bayes rules and joint models.
 
 <!-- ### My interests and works -->
 
