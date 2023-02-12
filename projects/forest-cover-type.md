@@ -5,7 +5,7 @@ _Comparing classification algorithms and explore hyperparameter tuning_
 
 ### Project description
 
-This is a [notebook](https://www.kaggle.com/code/yannansu/forestcovertype-hyperparametertuning) for the [Cat in the Dat](https://www.kaggle.com/competitions/forest-cover-type-prediction) competition on Kaggle.
+This is a [notebook](https://www.kaggle.com/code/yannansu/forestcovertype-hyperparametertuning) for the [Forest Cover Type Prediction](https://www.kaggle.com/competitions/forest-cover-type-prediction) competition on Kaggle.
 
 > Random forests? Cover trees? Not so fast, computer nerds. We're talking about the real thing.
 > In this competition you are asked to predict the forest cover type (the predominant kind of tree cover) from strictly cartographic variables (as opposed to remotely sensed data). 
