@@ -1,6 +1,6 @@
 ## Visual Information Processing
 
-_THE research questions and solutions during my PhD in Neuroscience_
+_Research questions and solutions during my PhD in Neuroscience_
 
 
 <!-- ### Inference in visual information processing -->

@@ -2,16 +2,22 @@
 
 ---
 
-### Ongoing Projects
+## Research Projects - Visual Information Processing
 
-[Research Projects - Visual Information Processing](/projects/visual-information-processing.md)
+To gain insights how visual perception works as an "unconscious inference" and how our brain uses computational representations to process visual information, I measure visual percepts of humans and reveal the underlying models.
+
+[Learn more about my research projects](/projects/visual-information-processing.md)
 
 ---
 
 ## All Projects
-#### Catch the CATs
+### Forest Cover Type - Compare Classification Algorithms
 
-_My explorations of Feature Engineering_
+In this project, I predicted the forest cover type (the predominant kind of tree cover) from strictly cartographic variables (as opposed to remotely sensed data). I compared different classification models and applied hyperparameter tuning to the best model.
+
+[View code on Kaggle](https://www.kaggle.com/code/yannansu/forestcovertype-hyperparametertuning).
+
+### Catch the CATs - Explore Feature Engineering
 
 In this project, I performed feature engineering on various features, including binary features, low- and high-cardinality nominal features, low- and high-cardinality ordinal features, and (potentially) cyclical features.
 
@@ -21,7 +27,8 @@ In this project, I performed feature engineering on various features, including 
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Forest Cover Type - Compare Classification Algorithms](/projects/forest-cover-type.md)
+
+<!-- [Forest Cover Type - Compare Classification Algorithms](/projects/forest-cover-type.md) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
