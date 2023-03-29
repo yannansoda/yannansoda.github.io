@@ -1,5 +1,4 @@
-## Selected Projects in Data Science and Computational Neuroscience
-
+## Selected Projects 
 ---
 
 ## Research Projects - Visual Information Processing
@@ -8,15 +7,16 @@ To gain insights how visual perception works as an "unconscious inference" and h
 
 [Learn more about my research projects](/projects/visual-information-processing.md)
 
----
-
-## All Projects
 ### Rental offers in Munich 
 Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/apartment-rental-offers-munich)
 
 ![](/images/avg_unit_rent_muc.png)
+
+---
+
+## All Projects
 
 ### Forest Cover Type - Compare Classification Algorithms
 
