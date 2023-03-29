@@ -11,11 +11,18 @@ To gain insights how visual perception works as an "unconscious inference" and h
 ---
 
 ## All Projects
+### Rental offers in Munich 
+Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
+
+[View code on Kaggle](https://www.kaggle.com/yannansu/apartment-rental-offers-munich)
+
+![](/images/avg_unit_rent_muc.png)
+
 ### Forest Cover Type - Compare Classification Algorithms
 
 In this project, I predicted the forest cover type (the predominant kind of tree cover) from strictly cartographic variables (as opposed to remotely sensed data). I compared different classification models and applied hyperparameter tuning to the best model.
 
-[View code on Kaggle](https://www.kaggle.com/code/yannansu/forestcovertype-hyperparametertuning).
+[View code on Kaggle](https://www.kaggle.com/code/yannansu/forestcovertype-hyperparametertuning)
 
 ### Catch the CATs - Explore Feature Engineering
 
