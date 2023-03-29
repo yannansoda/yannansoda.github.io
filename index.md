@@ -1,7 +1,7 @@
 ## Selected Projects 
 ---
 
-## Research Projects - Visual Information Processing
+### Research Projects - Visual Information Processing
 
 To gain insights how visual perception works as an "unconscious inference" and how our brain uses computational representations to process visual information, I measure visual percepts of humans and reveal the underlying models.
 
