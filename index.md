@@ -1,5 +1,6 @@
-## Selected Projects 
+# Portfolio
 ---
+## Selected Projects 
 
 ### Research Projects - Visual Information Processing
 
