@@ -16,7 +16,7 @@ Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout
 ![](/images/avg_unit_rent_muc.png)
 
 ### Music effects on mental health
-How music affects our mental health? In this notebook, I will use the survey data to explore participants' music listening habits and mental health status. 
+How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
 
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
 
