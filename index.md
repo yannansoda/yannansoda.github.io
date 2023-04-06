@@ -15,6 +15,13 @@ Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout
 
 ![](/images/avg_unit_rent_muc.png)
 
+### Diabetes health indicator
+Early diagnosis of diabetes is important to prevent the onset of complications. From survey data, I found health indicators that are most associated with diabetes.
+
+[View code on Kaggle](https://www.kaggle.com/yannansu/predict-diabetes-with-health-indicators)
+
+![](/images/important-features.png)
+
 ### Music effects on mental health
 How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
 
