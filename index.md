@@ -8,6 +8,13 @@ To gain insights how visual perception works as an "unconscious inference" and h
 
 [Learn more about my research projects](/projects/visual-information-processing.md)
 
+### Daily progress in my PhD journey
+ Approaching the end of my PhD, I set up a daily standup meeting and recorded my daily progress in a spreadsheet. This app is to visualize the data and help me to track my progress.
+
+[View dashboard app](https://yannansoda-standup-updates-dashboard-main-5d3sx1.streamlit.app/) or [View code on Github](https://github.com/yannansoda/standup-updates-dashboard)
+
+![](/images/calmap.png)
+
 ### Rental offers in Munich 
 Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
 
