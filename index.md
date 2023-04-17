@@ -15,6 +15,13 @@ To gain insights how visual perception works as an "unconscious inference" and h
 
 ![](/images/calmap.png)
 
+### Diabetes health indicator
+Early diagnosis of diabetes is important to prevent the onset of complications. From survey data, I found health indicators that are most associated with diabetes.
+
+[View code on Kaggle](https://www.kaggle.com/yannansu/predict-diabetes-with-health-indicators)
+
+![](/images/important-features.png)
+
 ### Rental offers in Munich 
 Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
 
@@ -22,12 +29,12 @@ Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout
 
 ![](/images/avg_unit_rent_muc.png)
 
-### Diabetes health indicator
-Early diagnosis of diabetes is important to prevent the onset of complications. From survey data, I found health indicators that are most associated with diabetes.
+### A Starter for Forecasting Time Series
+Which methods are suitable for forecasting time series? I made a starter notebook to explore different models and find the best method to predict sales data.
 
-[View code on Kaggle](https://www.kaggle.com/yannansu/predict-diabetes-with-health-indicators)
+[View code on Kaggle](https://www.kaggle.com/yannansu/a-starter-for-forecasting-models)
 
-![](/images/important-features.png)
+![](/images/sale-quantity-forecast.png)
 
 ### Music effects on mental health
 How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
