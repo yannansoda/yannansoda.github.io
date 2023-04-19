@@ -9,7 +9,11 @@ To gain insights how visual perception works as an "unconscious inference" and h
 [Learn more about my research projects](/projects/visual-information-processing.md)
 
 ### Daily progress in my PhD journey
+*<span style="color:salmon">Data Visualization</span>*, 
+*<span style="color:salmon">Interactive Dashboard</span>*
+
  Approaching the end of my PhD, I set up a daily standup meeting and recorded my daily progress in a spreadsheet. This app is to visualize the data and help me to track my progress.
+
 
 [View dashboard app](https://yannansoda-standup-updates-dashboard-main-5d3sx1.streamlit.app/) or [View code on Github](https://github.com/yannansoda/standup-updates-dashboard)
 
@@ -18,12 +22,18 @@ To gain insights how visual perception works as an "unconscious inference" and h
 ### Diabetes health indicator
 Early diagnosis of diabetes is important to prevent the onset of complications. From survey data, I found health indicators that are most associated with diabetes.
 
+*<span style="color:salmon">Classification</span>*,
+*<span style="color:salmon">Model Tuning</span>*
+
 [View code on Kaggle](https://www.kaggle.com/yannansu/predict-diabetes-with-health-indicators)
 
 ![](/images/important-features.png)
 
 ### Rental offers in Munich 
 Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
+
+*<span style="color:salmon">Geodata</span>*, 
+*<span style="color:salmon">Regression</span>* 
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/apartment-rental-offers-munich)
 
@@ -32,12 +42,17 @@ Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout
 ### A Starter for Forecasting Time Series
 Which methods are suitable for forecasting time series? I made a starter notebook to explore different models and find the best method to predict sales data.
 
-[View code on Kaggle](https://www.kaggle.com/yannansu/a-starter-for-forecasting-models)
+*<span style="color:salmon">Time Series</span>*,
+*<span style="color:salmon">Forecasting</span>*
 
+[View code on Kaggle](https://www.kaggle.com/yannansu/a-starter-for-forecasting-models)
 ![](/images/sale-quantity-forecast.png)
 
 ### Music effects on mental health
 How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
+
+*<span style="color:salmon">EDA</span>*,
+*<span style="color:salmon">Correlation</span>*
 
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
 
