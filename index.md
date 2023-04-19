@@ -3,17 +3,17 @@
 ## Selected Projects 
 
 ### Research Projects - Visual Information Processing
-*<span style="background-color:lightgrey">Psychometrics</span>
-<span style="background-color:lightgrey">Bayesian Models</span> 
-<span style="background-color:lightgrey">Mathematical Approaches </span>*
+*<span style="background-color:lightblue">Psychometrics</span> | 
+<span style="background-color:lightblue">Bayesian Models</span> | 
+<span style="background-color:lightblue">Mathematical Approaches </span>*
 
 To gain insights how visual perception works as an "unconscious inference" and how our brain uses computational representations to process visual information, I measure visual percepts of humans and reveal the underlying models.
 
 [Learn more about my research projects](/projects/visual-information-processing.md)
 
 ### Daily progress in my PhD journey
-*<span style="background-color:lightgrey">Data Visualization</span> 
-<span style="background-color:lightgrey">Interactive Dashboard</span>*
+*<span style="background-color:lightblue">Data Visualization</span> | 
+<span style="background-color:lightblue">Interactive Dashboard</span>*
 
 Approaching the end of my PhD, I set up a daily standup meeting and recorded my daily progress in a spreadsheet. This app is to visualize the data and help me to track my progress.
 
@@ -22,8 +22,8 @@ Approaching the end of my PhD, I set up a daily standup meeting and recorded my 
 ![](/images/calmap.png)
 
 ### Diabetes health indicator
-*<span style="background-color:lightgrey">Classification</span>* 
-*<span style="background-color:lightgrey">Model Tuning</span>*
+*<span style="background-color:lightblue">Classification</span>* | 
+*<span style="background-color:lightblue">Model Tuning</span>*
 
 Early diagnosis of diabetes is important to prevent the onset of complications. From survey data, I found health indicators that are most associated with diabetes.
 
@@ -32,8 +32,8 @@ Early diagnosis of diabetes is important to prevent the onset of complications. 
 ![](/images/important-features.png)
 
 ### Rental offers in Munich 
-*<span style="background-color:lightgrey">Geodata</span>* 
-*<span style="background-color:lightgrey">Regression</span>* 
+*<span style="background-color:lightblue">Geodata</span>* | 
+*<span style="background-color:lightblue">Regression</span>* 
 
 Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
 
@@ -42,8 +42,8 @@ Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout
 ![](/images/avg_unit_rent_muc.png)
 
 ### A Starter for Forecasting Time Series
-*<span style="background-color:lightgrey">Time Series</span>* 
-*<span style="background-color:lightgrey">Forecasting</span>*
+*<span style="background-color:lightblue">Time Series</span>* | 
+*<span style="background-color:lightblue">Forecasting</span>*
 
 Which methods are suitable for forecasting time series? I made a starter notebook to explore different models and find the best method to predict sales data.
 
@@ -51,8 +51,8 @@ Which methods are suitable for forecasting time series? I made a starter noteboo
 ![](/images/sale-quantity-forecast.png)
 
 ### Music effects on mental health
-*<span style="background-color:lightgrey">Exploratory Data Analysis</span>*
-*<span style="background-color:lightgrey">Correlation</span>*
+*<span style="background-color:lightblue">Exploratory Data Analysis</span>* | 
+*<span style="background-color:lightblue">Correlation</span>*
 
 How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
 
@@ -64,16 +64,16 @@ How music affects our mental health? In this notebook, I used survey data to exp
 ## All Projects
 
 ### Forest Cover Type - Compare Classification Algorithms
-*<span style="background-color:lightgrey">Classification</span>*
-*<span style="background-color:lightgrey">Model Tuning</span>*
+*<span style="background-color:lightblue">Classification</span>* | 
+*<span style="background-color:lightblue">Model Tuning</span>*
 
 In this project, I predicted the forest cover type (the predominant kind of tree cover) from strictly cartographic variables (as opposed to remotely sensed data). I compared different classification models and applied hyperparameter tuning to the best model.
 
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/forestcovertype-hyperparametertuning)
 
 ### Catch the CATs - Explore Feature Engineering
-*<span style="background-color:lightgrey">Exploratory Data Analysis</span>*
-*<span style="background-color:lightgrey">Feature Engineering</span>*
+*<span style="background-color:lightblue">Exploratory Data Analysis</span>* |
+*<span style="background-color:lightblue">Feature Engineering</span>*
 
 In this project, I performed feature engineering on various features, including binary features, low- and high-cardinality nominal features, low- and high-cardinality ordinal features, and (potentially) cyclical features.
 
