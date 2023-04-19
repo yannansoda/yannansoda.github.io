@@ -9,50 +9,45 @@ To gain insights how visual perception works as an "unconscious inference" and h
 [Learn more about my research projects](/projects/visual-information-processing.md)
 
 ### Daily progress in my PhD journey
-*<span style="color:salmon">Data Visualization</span>*, 
-*<span style="color:salmon">Interactive Dashboard</span>*
+*<span style="background-color:olive">Data Visualization</span> <span style="background-color:olive">Interactive Dashboard</span>*
 
- Approaching the end of my PhD, I set up a daily standup meeting and recorded my daily progress in a spreadsheet. This app is to visualize the data and help me to track my progress.
-
+Approaching the end of my PhD, I set up a daily standup meeting and recorded my daily progress in a spreadsheet. This app is to visualize the data and help me to track my progress.
 
 [View dashboard app](https://yannansoda-standup-updates-dashboard-main-5d3sx1.streamlit.app/) or [View code on Github](https://github.com/yannansoda/standup-updates-dashboard)
 
 ![](/images/calmap.png)
 
 ### Diabetes health indicator
-Early diagnosis of diabetes is important to prevent the onset of complications. From survey data, I found health indicators that are most associated with diabetes.
+*<span style="background-color:olive">Classification</span>* *<span style="background-color:olive">Model Tuning</span>*
 
-*<span style="color:salmon">Classification</span>*,
-*<span style="color:salmon">Model Tuning</span>*
+Early diagnosis of diabetes is important to prevent the onset of complications. From survey data, I found health indicators that are most associated with diabetes.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/predict-diabetes-with-health-indicators)
 
 ![](/images/important-features.png)
 
 ### Rental offers in Munich 
-Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
+*<span style="background-color:olive">Geodata</span>* *<span style="background-color:olive">Regression</span>* 
 
-*<span style="color:salmon">Geodata</span>*, 
-*<span style="color:salmon">Regression</span>* 
+Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/apartment-rental-offers-munich)
 
 ![](/images/avg_unit_rent_muc.png)
 
 ### A Starter for Forecasting Time Series
-Which methods are suitable for forecasting time series? I made a starter notebook to explore different models and find the best method to predict sales data.
+*<span style="background-color:olive">Time Series</span>* *<span style="background-color:olive">Forecasting</span>*
 
-*<span style="color:salmon">Time Series</span>*,
-*<span style="color:salmon">Forecasting</span>*
+Which methods are suitable for forecasting time series? I made a starter notebook to explore different models and find the best method to predict sales data.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/a-starter-for-forecasting-models)
 ![](/images/sale-quantity-forecast.png)
 
 ### Music effects on mental health
-How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
+*<span style="background-color:olive">Exploratory Data Analysis</span>*
+*<span style="background-color:olive">Correlation</span>*
 
-*<span style="color:salmon">EDA</span>*,
-*<span style="color:salmon">Correlation</span>*
+How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
 
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
 
@@ -62,12 +57,16 @@ How music affects our mental health? In this notebook, I used survey data to exp
 ## All Projects
 
 ### Forest Cover Type - Compare Classification Algorithms
+*<span style="background-color:olive">Classification</span>*
+*<span style="background-color:olive">Model Tuning</span>*
 
 In this project, I predicted the forest cover type (the predominant kind of tree cover) from strictly cartographic variables (as opposed to remotely sensed data). I compared different classification models and applied hyperparameter tuning to the best model.
 
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/forestcovertype-hyperparametertuning)
 
 ### Catch the CATs - Explore Feature Engineering
+*<span style="background-color:olive">Exploratory Data Analysis</span>*
+*<span style="background-color:olive">Feature Engineering</span>*
 
 In this project, I performed feature engineering on various features, including binary features, low- and high-cardinality nominal features, low- and high-cardinality ordinal features, and (potentially) cyclical features.
 
