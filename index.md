@@ -31,6 +31,18 @@ Early diagnosis of diabetes is important to prevent the onset of complications. 
 
 ![](/images/important-features.png)
 
+### Symptoms to diagnosis using NLP
+*<span style="color:lightblue">NLP</span>* | 
+*<span style="color:lightblue">Word Cloud</span>* | 
+*<span style="color:lightblue">Neural Network</span>* | 
+*<span style="color:lightblue">TensorFlow</span>*
+
+NLP seems more and more powerful for healthcare. In this project, I explore how to infer disease from symptoms using language processing and neural networks.
+
+[View code on Kaggle](https://www.kaggle.com/yannansu/symptom2disease-with-neural-networks-94-accuracy)
+
+![](/images/world-cloud.png)
+
 ### Rental offers in Munich 
 *<span style="color:lightblue">Geodata</span>* | 
 *<span style="color:lightblue">Regression</span>* 
