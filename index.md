@@ -27,7 +27,6 @@ Approaching the end of my PhD, I set up a daily standup meeting and recorded my 
 Early diagnosis of diabetes is important to prevent the onset of complications. From survey data, I found health indicators that are most associated with diabetes.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/predict-diabetes-with-health-indicators)
-
 ![](/images/important-features.png)
 
 ### Symptoms to diagnosis using NLP
@@ -39,6 +38,7 @@ Early diagnosis of diabetes is important to prevent the onset of complications. 
 NLP seems becoming powerful in the field of healthcare. In this project, I explore how to infer disease from symptoms using language processing and neural networks.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/symptom2disease-with-neural-networks-94-accuracy)
+
 <img src="/images/word-cloud.png" width="300">
 <!-- ![](/images/word-cloud.png) -->
 
