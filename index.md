@@ -18,7 +18,6 @@ To gain insights how visual perception works as an "unconscious inference" and h
 Approaching the end of my PhD, I set up a daily standup meeting and recorded my daily progress in a spreadsheet. This app is to visualize the data and help me to track my progress.
 
 [View dashboard app](https://yannansoda-standup-updates-dashboard-main-5d3sx1.streamlit.app/) or [View code on Github](https://github.com/yannansoda/standup-updates-dashboard)
-
 ![](/images/calmap.png)
 
 ### Diabetes health indicator
@@ -40,8 +39,8 @@ Early diagnosis of diabetes is important to prevent the onset of complications. 
 NLP seems becoming powerful in the field of healthcare. In this project, I explore how to infer disease from symptoms using language processing and neural networks.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/symptom2disease-with-neural-networks-94-accuracy)
-
-![](/images/word-cloud.png|width=100)
+<img src="/images/word-cloud.png" width="300">
+<!-- ![](/images/word-cloud.png) -->
 
 
 ### Rental offers in Munich 
@@ -51,7 +50,6 @@ NLP seems becoming powerful in the field of healthcare. In this project, I explo
 Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/apartment-rental-offers-munich)
-
 ![](/images/avg_unit_rent_muc.png)
 
 ### A Starter for Forecasting Time Series
@@ -70,7 +68,6 @@ Which methods are suitable for forecasting time series? I made a starter noteboo
 How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
 
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
-
 ![](/images/music-health-corr.png)
 ---
 
