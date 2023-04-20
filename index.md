@@ -37,11 +37,11 @@ Early diagnosis of diabetes is important to prevent the onset of complications. 
 *<span style="color:lightblue">Neural Network</span>* | 
 *<span style="color:lightblue">TensorFlow</span>*
 
-NLP seems more and more powerful for healthcare. In this project, I explore how to infer disease from symptoms using language processing and neural networks.
+NLP seems becoming powerful in the field of healthcare. In this project, I explore how to infer disease from symptoms using language processing and neural networks.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/symptom2disease-with-neural-networks-94-accuracy)
 
-![](/images/world-cloud.png)
+![](/images/word-cloud.png)
 
 ### Rental offers in Munich 
 *<span style="color:lightblue">Geodata</span>* | 
