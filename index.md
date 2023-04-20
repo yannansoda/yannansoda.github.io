@@ -41,7 +41,8 @@ NLP seems becoming powerful in the field of healthcare. In this project, I explo
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/symptom2disease-with-neural-networks-94-accuracy)
 
-![](/images/word-cloud.png)
+![](/images/word-cloud.png|width=100)
+
 
 ### Rental offers in Munich 
 *<span style="color:lightblue">Geodata</span>* | 
