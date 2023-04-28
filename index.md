@@ -42,6 +42,14 @@ NLP seems becoming powerful in the field of healthcare. In this project, I explo
 <img src="/images/word-cloud.png" width="300">
 <!-- ![](/images/word-cloud.png) -->
 
+### Music effects on mental health
+*<span style="color:lightblue">Exploratory Data Analysis</span>* | 
+*<span style="color:lightblue">Correlation</span>*
+
+How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
+
+[View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
+![](/images/music-health-corr.png)
 
 ### Rental offers in Munich 
 *<span style="color:lightblue">Geodata</span>* | 
@@ -61,17 +69,16 @@ Which methods are suitable for forecasting time series? I made a starter noteboo
 [View code on Kaggle](https://www.kaggle.com/yannansu/a-starter-for-forecasting-models)
 ![](/images/sale-quantity-forecast.png)
 
-### Music effects on mental health
-*<span style="color:lightblue">Exploratory Data Analysis</span>* | 
-*<span style="color:lightblue">Correlation</span>*
-
-How music affects our mental health? In this notebook, I used survey data to explore participants' music listening habits and mental health status. 
-
-[View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
-![](/images/music-health-corr.png)
 ---
 
 ## All Projects
+### Introduction to Probabilistic Programming with NumPyro
+*<span style="color:lightblue">Bayesian</span>* |
+*<span style="color:lightblue">NumPyro</span>* 
+
+Probabilistic programming is a powerful approach to statistical modeling. In this tutorial, I introduced the basics of probabilistic programming with NumPyro.
+
+[View tutorial on Colab](https://colab.research.google.com/drive/1O-ySFYkjHZFxcFxElk_BuSqhQikVrSNR?usp=sharing)
 
 ### Forest Cover Type - Compare Classification Algorithms
 *<span style="color:lightblue">Classification</span>* | 
