@@ -69,7 +69,7 @@ Which methods are suitable for forecasting time series? I made a starter noteboo
 [View code on Kaggle](https://www.kaggle.com/yannansu/a-starter-for-forecasting-models)
 ![](/images/sale-quantity-forecast.png)
 
----
+----------------------------------------------
 
 ## All Projects
 ### Introduction to Probabilistic Programming with NumPyro
@@ -99,12 +99,12 @@ In this project, I performed feature engineering on various features, including 
 [Catch the CATs - Explore Feature Engineering](/projects/catch-the-cats.md) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
+----------------------------------------------
 
 <!-- [Forest Cover Type - Compare Classification Algorithms](/projects/forest-cover-type.md) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
+<!-- --- -->
 
 <!-- ### Side Projects
 
