@@ -51,6 +51,17 @@ How music affects our mental health? In this notebook, I used survey data to exp
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
 ![](/images/music-health-corr.png)
 
+### Spotify music recommender
+*<span style="color:lightblue">Recommender System</span>* |
+*<span style="color:lightblue">Dimensionality Reduction</span>* |
+*<span style="color:lightblue">Streamlit App</span>*
+
+I used Spotify's audio features to build a music recommender system. I further developed a web app in which the recommender system can be customized by selecting the features.
+
+[View code on Kaggle](https://www.kaggle.com/code/yannansu/music-recommender-bonus-streamlit-app) or [View App](https://yannansoda-spotify-music-recommender-app-16d88c.streamlit.app/)
+
+![](/images/similar-songs-example.png)
+
 ### Rental offers in Munich 
 *<span style="color:lightblue">Geodata</span>* | 
 *<span style="color:lightblue">Regression</span>* 
