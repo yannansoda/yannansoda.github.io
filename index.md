@@ -17,7 +17,7 @@ To gain insights how visual perception works as an "unconscious inference" and h
 
 Approaching the end of my PhD, I set up a daily standup meeting and recorded my daily progress in a spreadsheet. This app is to visualize the data and help me to track my progress.
 
-[View dashboard app](https://yannansoda-standup-updates-dashboard-main-5d3sx1.streamlit.app/) or [View code on Github](https://github.com/yannansoda/standup-updates-dashboard)
+[View dashboard app](https://yannansoda-standup-updates-dashboard-main-lvkilq.streamlit.app/) or [View code on Github](https://github.com/yannansoda/standup-updates-dashboard)
 ![](/images/calmap.png)
 
 ### Diabetes health indicator
