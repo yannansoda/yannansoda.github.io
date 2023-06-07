@@ -18,7 +18,6 @@ To investigate them, I measure visual percepts of humans and reveal the underlyi
 <!-- ### Outcomes -->
 The research projects is still ongoing, which are expected to result in three research publications. 
 
-I have presented some findings in conferences - check them out if you are interested:
-- Su Y., Wachtler T. (2022) A Bayesian observer model reveals a prior for natural daylights underlying perceptual bias in hue perception. Bernstein Conference 2022
-- Su Y., Wachtler T. (2022) Reference Repulsion in Hue Perception. 44th European Conference on Visual Perception (ECVP) 2022
+I have published preprints and presented the findings in conferences - check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=FD3M8jEAAAAJ&view_op=list_works&sortby=pubdate) if you are interested.
+
 
