@@ -36,20 +36,7 @@ In this open-access [BCG Virtual Experience Program with Forage](https://www.the
 Early diagnosis of diabetes is important to prevent the onset of complications. From survey data, I found health indicators that are most associated with diabetes.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/predict-diabetes-with-health-indicators)
-![](/images/important-features.png)
-
-### Symptoms to diagnosis using NLP
-*<span style="color:lightblue">NLP</span>* | 
-*<span style="color:lightblue">Word Cloud</span>* | 
-*<span style="color:lightblue">Neural Network</span>* | 
-*<span style="color:lightblue">TensorFlow</span>*
-
-NLP seems becoming powerful in the field of healthcare. In this project, I explore how to infer disease from symptoms using language processing and neural networks.
-
-[View code on Kaggle](https://www.kaggle.com/yannansu/symptom2disease-with-neural-networks-94-accuracy)
-
-<img src="/images/word-cloud.png" width="300">
-<!-- ![](/images/word-cloud.png) -->
+![](/images/important-features-shap.png)
 
 ### Music effects on mental health
 *<span style="color:lightblue">Exploratory Data Analysis</span>* | 
@@ -60,6 +47,21 @@ How music affects our mental health? In this notebook, I used survey data to exp
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
 ![](/images/music-health-corr.png)
 
+----------------------------------------------
+
+## All Projects
+
+### Symptoms to diagnosis using NLP
+*<span style="color:lightblue">NLP</span>* | 
+*<span style="color:lightblue">Word Cloud</span>* | 
+*<span style="color:lightblue">Neural Network</span>* | 
+*<span style="color:lightblue">TensorFlow</span>*
+
+NLP seems becoming powerful in the field of healthcare. In this project, I explore how to infer disease from symptoms using language processing and neural networks.
+
+[View code on Kaggle](https://www.kaggle.com/yannansu/symptom2disease-with-neural-networks-94-accuracy)
+<!-- <img src="/images/word-cloud.png" width="300"> -->
+
 ### Spotify music recommender
 *<span style="color:lightblue">Recommender System</span>* |
 *<span style="color:lightblue">Dimensionality Reduction</span>* |
@@ -68,8 +70,7 @@ How music affects our mental health? In this notebook, I used survey data to exp
 I used Spotify's audio features to build a music recommender system. I further developed a web app in which the recommender system can be customized by selecting the features.
 
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-recommender-bonus-streamlit-app) or [View App](https://yannansoda-spotify-music-recommender-app-16d88c.streamlit.app/)
-
-![](/images/similar-songs-example.png)
+<!-- ![](/images/similar-songs-example.png) -->
 
 ### Rental offers in Munich 
 *<span style="color:lightblue">Geodata</span>* | 
@@ -78,7 +79,7 @@ I used Spotify's audio features to build a music recommender system. I further d
 Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout24](https://www.immobilienscout24.de/) to find what factors affect the price of a rental offer in Munich.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/apartment-rental-offers-munich)
-![](/images/avg_unit_rent_muc.png)
+<!-- ![](/images/avg_unit_rent_muc.png) -->
 
 ### A Starter for Forecasting Time Series
 *<span style="color:lightblue">Time Series</span>* | 
@@ -87,11 +88,8 @@ Hunting for a new apartment in Munich? I analyzed the data from [Immobilienscout
 Which methods are suitable for forecasting time series? I made a starter notebook to explore different models and find the best method to predict sales data.
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/a-starter-for-forecasting-models)
-![](/images/sale-quantity-forecast.png)
+<!-- ![](/images/sale-quantity-forecast.png) -->
 
-----------------------------------------------
-
-## All Projects
 ### Introduction to Probabilistic Programming with NumPyro
 *<span style="color:lightblue">Bayesian</span>* |
 *<span style="color:lightblue">NumPyro</span>* 
