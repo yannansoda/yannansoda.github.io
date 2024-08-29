@@ -1,24 +1,22 @@
 ## Visual Information Processing
 
-_Research questions and solutions during my PhD in Neuroscience_
+_Research questions and solutions during my PhD in Computational Neuroscience_
 
 <!-- ### Inference in visual information processing -->
 
-Perception is an "unconscious inference", stated by Hermann von Helmholtz, and believed by me, a scientist studying how our brain processes rich and ambiguous visual information.
+Perception is an "unconscious inference", stated by Hermann von Helmholtz, and believed by me. 
 
-It seems that, from the perspective of information processing, the brain is an information processor that never rests but constantly implements statistical inference, for example, using Bayes rules and joint probabilities.
+From the perspective of information processing, the brain is an information processor that never rests but constantly implements statistical inference, for example, using Bayes rules and joint probabilities.
 
 ![](/images/research_illustration.png)
 
 <!-- ### My interests and works -->
 
-I am particularly interested in the computational representations of the inference in our brain. 
+During my Ph.D. at the [Graduate School of Systemic Neurosciences-LMU](https://www.gsn.uni-muenchen.de/index.html), I was particularly interested in the computational representations of the inference in our brain. 
 
-To investigate them, I measure visual percepts of humans and reveal the underlying models. I have been coding psychophysical experiment programs in Python, applying statistical analysis on measurement data, using modeling and optimization techniques, and of course, being always eager to learn and try new ideas.
+To investigate them, I measured visual percepts of humans and revealed the underlying models. I design novel studies, coded psychophysical experiment programs, applied statistical analysis on measurement data, and extensively used modeling and optimization techniques.
 
 <!-- ### Outcomes -->
-The research projects is still ongoing, which are expected to result in three research publications. 
-
-I have published manuscripts and presented the findings in conferences - check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=FD3M8jEAAAAJ&view_op=list_works&sortby=pubdate) if you are interested.
+The research projects have resulted in publications and presentations in conferences - check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=FD3M8jEAAAAJ&view_op=list_works&sortby=pubdate) if you are interested.
 
 

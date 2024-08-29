@@ -7,7 +7,7 @@
 <span style="color:lightblue">Bayesian Models</span> | 
 <span style="color:lightblue">Mathematical Approaches </span>*
 
-To gain insights how visual perception works as an "unconscious inference" and how our brain uses computational representations to process visual information, I measure visual percepts of humans and reveal the underlying models.
+During my Ph.D. in computational neuroscience, I studied how visual perception works as an "unconscious inference" and how our brain uses computational representations to process visual information.
 
 [Learn more about my research projects](/projects/visual-information-processing.md)
 
