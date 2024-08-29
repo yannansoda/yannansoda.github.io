@@ -20,15 +20,6 @@ Approaching the end of my PhD, I set up a daily standup meeting and recorded my 
 [View dashboard app](https://yannansoda-standup-updates-dashboard-main-lvkilq.streamlit.app/) or [View code on Github](https://github.com/yannansoda/standup-updates-dashboard)
 ![](/images/calmap.png)
 
-### BCG Virtual Experience Program - Customer Churn Prediction
-*<span style="color:lightblue">Business Understanding and Strategies</span> | 
-<span style="color:lightblue">Classification</span>*
-
-In this open-access [BCG Virtual Experience Program with Forage](https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/Data-Science-Virtual-Experience-Program#lp), I built a predictive model that can identify customers at high risk of churn for a utility company.
-
-[View project on Github](https://github.com/yannansoda/BCG-virtual-churn-prediction)
-![](/images/churn-prediction-corr.png)
-
 ### Diabetes health indicator
 *<span style="color:lightblue">Classification</span>* | 
 *<span style="color:lightblue">Model Tuning</span>*
@@ -46,6 +37,15 @@ How music affects our mental health? In this notebook, I used survey data to exp
 
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
 ![](/images/music-health-corr.png)
+
+### BCG Virtual Experience Program - Customer Churn Prediction
+*<span style="color:lightblue">Business Understanding and Strategies</span> | 
+<span style="color:lightblue">Classification</span>*
+
+In this open-access [BCG Virtual Experience Program with Forage](https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/Data-Science-Virtual-Experience-Program#lp), I built a predictive model that can identify customers at high risk of churn for a utility company.
+
+[View project on Github](https://github.com/yannansoda/BCG-virtual-churn-prediction)
+![](/images/churn-prediction-corr.png)
 
 ----------------------------------------------
 
