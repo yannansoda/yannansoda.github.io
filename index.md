@@ -1,16 +1,17 @@
 # Portfolio
 ---
 ## Selected Personal Projects 
-
+---
 ### LingLing - a Language Learning Tool
 *<span style="color:lightblue">Language Learning</span> |
 <span style="color:lightblue">Streamlit App</span> |
 <span style="color:lightblue">Vibe coding</span>*
 
-
 As a language learner myself, I built LingLing, an interactive language learning tool. Users can translate a sentence into multiple target languages simultaneously and explore CEFR difficulty levels, helping them understand not just what a sentence means, but how hard it is to learn.
 
 [Try LingLing here](https://lingling.streamlit.app)
+
+---
 
 ### Research Projects - Visual Information Processing
 *<span style="color:lightblue">Psychometrics</span> | 
@@ -21,6 +22,8 @@ During my Ph.D. in computational neuroscience, I studied how visual perception w
 
 [Learn more about my research projects](/projects/visual-information-processing.md)
 
+---
+
 ### Daily progress in my PhD journey
 *<span style="color:lightblue">Data Visualization</span> | 
 <span style="color:lightblue">Interactive Dashboard</span>*
@@ -30,6 +33,8 @@ Approaching the end of my PhD, I set up a daily standup meeting and recorded my 
 [View dashboard app](https://yannansoda-standup-updates-dashboard-main-lvkilq.streamlit.app/) or [View code on Github](https://github.com/yannansoda/standup-updates-dashboard)
 ![](/images/calmap.png)
 
+---
+
 ### Diabetes health indicator
 *<span style="color:lightblue">Classification</span>* | 
 *<span style="color:lightblue">Model Tuning</span>*
@@ -38,6 +43,8 @@ Early diagnosis of diabetes is important to prevent the onset of complications. 
 
 [View code on Kaggle](https://www.kaggle.com/yannansu/predict-diabetes-with-health-indicators)
 ![](/images/important-features-shap.png)
+
+---
 
 ### Music effects on mental health
 *<span style="color:lightblue">Exploratory Data Analysis</span>* | 
