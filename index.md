@@ -1,6 +1,16 @@
 # Portfolio
 ---
-## Selected Projects 
+## Selected Personal Projects 
+
+### LingLing - a Language Learning Tool
+*<span style="color:lightblue">Language Learning</span> |
+<span style="color:lightblue">Streamlit App</span> |
+<span style="color:lightblue">Vibe coding</span>*
+
+
+As a language learner myself, I built LingLing, an interactive language learning tool. Users can translate a sentence into multiple target languages simultaneously and explore CEFR difficulty levels, helping them understand not just what a sentence means, but how hard it is to learn.
+
+[Try LingLing here](https://lingling.streamlit.app)
 
 ### Research Projects - Visual Information Processing
 *<span style="color:lightblue">Psychometrics</span> | 
@@ -38,18 +48,10 @@ How music affects our mental health? In this notebook, I used survey data to exp
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-and-mental-health-eda)
 ![](/images/music-health-corr.png)
 
-### BCG Virtual Experience Program - Customer Churn Prediction
-*<span style="color:lightblue">Business Understanding and Strategies</span> | 
-<span style="color:lightblue">Classification</span>*
-
-In this open-access [BCG Virtual Experience Program with Forage](https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/Data-Science-Virtual-Experience-Program#lp), I built a predictive model that can identify customers at high risk of churn for a utility company.
-
-[View project on Github](https://github.com/yannansoda/BCG-virtual-churn-prediction)
-![](/images/churn-prediction-corr.png)
 
 ----------------------------------------------
 
-## All Projects
+## All Personal Projects
 
 ### Symptoms to diagnosis using NLP
 *<span style="color:lightblue">NLP</span>* | 
@@ -71,6 +73,15 @@ I used Spotify's audio features to build a music recommender system. I further d
 
 [View code on Kaggle](https://www.kaggle.com/code/yannansu/music-recommender-bonus-streamlit-app) or [View App](https://yannansoda-spotify-music-recommender-app-16d88c.streamlit.app/)
 <!-- ![](/images/similar-songs-example.png) -->
+
+### BCG Virtual Experience Program - Customer Churn Prediction
+*<span style="color:lightblue">Business Understanding and Strategies</span> | 
+<span style="color:lightblue">Classification</span>*
+
+In this open-access [BCG Virtual Experience Program with Forage](https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/Data-Science-Virtual-Experience-Program#lp), I built a predictive model that can identify customers at high risk of churn for a utility company.
+
+[View project on Github](https://github.com/yannansoda/BCG-virtual-churn-prediction)
+<!-- ![](/images/churn-prediction-corr.png) -->
 
 ### Rental offers in Munich 
 *<span style="color:lightblue">Geodata</span>* | 
