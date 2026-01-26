@@ -2,7 +2,7 @@
 ---
 ## Selected Personal Projects 
 ---
-### LingLing - a Language Learning Tool
+### LingLing: a Language Learning Tool
 *<span style="color:lightblue">Language Learning</span> |
 <span style="color:lightblue">Streamlit App</span> |
 <span style="color:lightblue">Vibe coding</span>*
